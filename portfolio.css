@@ -33,6 +33,28 @@ img{
     background:rgb(81, 121, 230);
     color: rgb(40, 40, 40);
 }
+#body_effects{
+  padding: 20px;
+  font-size:42;
+  color: rgb(40, 40, 40);
+}
+#Mind_effects {
+  padding: 20px;
+  font-size:42;
+  background:rgb(81, 121, 230);
+  color: rgb(40, 40, 40);
+}
+#FSM {
+  padding: 20px;
+  font-size:42;
+  color: rgb(40, 40, 40);
+}
+#Therapy {
+  padding: 20px;
+  font-size:42;
+  background:rgb(81, 121, 230);
+  color: rgb(40, 40, 40);
+}
 .menu{
    list-style: none;
     font-family:cursive;
@@ -88,7 +110,7 @@ a
 }
 
 #intro {
-  padding: 150px;
+  padding: 360px;
 }
 
 #Title {
@@ -97,4 +119,10 @@ a
 
 #Sub-Title {
   font-size: 40px;
+}
+
+#bibliography {
+  padding: 20px;
+  font-size:42;
+  color: rgb(40, 40, 40);
 }
